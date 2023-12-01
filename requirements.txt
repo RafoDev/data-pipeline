@@ -1,0 +1,5 @@
+kafka-python
+Flask 
+Flask-SocketIO 
+kafka-python
+flask-cors
